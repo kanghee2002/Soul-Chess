@@ -1,5 +1,10 @@
 ## 체스 기반 카드 게임
 ![NDM 썸네일_Soul Chess 1](https://github.com/user-attachments/assets/46ea8d37-d4bb-44c7-aa5f-50bad47ef547)
+<p align="middle">
+  <img src="https://github.com/user-attachments/assets/48e9148d-ecb8-4732-afe2-d16e618e0b4c" width="45%" alt="GIF1" />
+  <img src="https://github.com/user-attachments/assets/2a027960-3233-47b6-adb1-467db1eb8ca3" width="45%" alt="GIF2" />
+</p>
+
 - 2024.07 ~ 2025.05
 - 팀 프로젝트 (9인)
 - Unity, Windows
